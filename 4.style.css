@@ -1,0 +1,25 @@
+@import url(http://fonts.googleapis.com/earlyaccess/hanna.css);
+div{
+    text-align: center;
+}
+span{
+    text-align: center;
+}
+h1{
+    color:hotpink;
+    background-color:rgb(249, 224, 224);
+    font-family: 'Hanna', serif;
+}
+a{
+    color:hotpink;
+    font-family: 'Hanna', serif;
+}
+h3{
+    color:hotpink;
+    background-color:rgb(249, 224, 224);
+    font-family: 'Hanna', serif;
+}
+p{
+    color:hotpink;
+    font-family: 'Hanna', serif;
+}
