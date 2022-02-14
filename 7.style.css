@@ -1,0 +1,48 @@
+body{
+    background-color: mistyrose;
+    text-align: center;
+    font-family: 'Do Hyeon', sans-serif;
+}
+.title{
+    display: inline-block;
+    color:lightpink;
+    font-weight:bolder;
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index:20 ;
+}
+h1{
+    font-size: 200%;
+    background-color:palevioletred;
+    padding: 5px;
+    margin: 5px;
+    display: inline-block;
+}
+.box1{
+    background-color: lightgrey;
+    padding: 5px;
+    margin: 5px;
+    font-size: 80%;
+    color:palevioletred;
+    position: relative;
+    top:100px;
+}
+.box2{
+    background-color:whitesmoke;
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+}
+.box3{
+    display: inline-block;
+    font-size:2.5ex;
+    position: relative;
+    padding: 5px;
+    margin: 5px;
+}
+img{
+    padding: 5px;
+    margin: 5px;
+height: 200px;
+}
