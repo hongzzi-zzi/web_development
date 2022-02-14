@@ -1,0 +1,23 @@
+div{
+    width: 200;
+    height: 200;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-weight:bolder;
+    color:mistyrose;
+    background-color:hotpink;
+    font-family: 'Do Hyeon', sans-serif;
+    padding: 20px;
+    margin: 20px;
+}
+.rank{
+    font-weight: lighter;
+    color:hotpink;
+    background-color:mistyrose;
+    font-family: 'Do Hyeon', sans-serif;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
