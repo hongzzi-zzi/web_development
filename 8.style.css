@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    font-family: 'Do Hyeon', sans-serif;
+}
+button{
+    text-align: center;
+    font-family: 'Do Hyeon', sans-serif;
+}
+h1{
+    background-color: mistyrose;
+    display:block;
+    padding: 5px;
+    margin: 5px;
+}
+.idDisplay{
+    background-color: mistyrose;
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+}
