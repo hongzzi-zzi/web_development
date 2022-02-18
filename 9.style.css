@@ -1,4 +1,16 @@
 body{
     text-align: center;
     font-family: 'Do Hyeon', sans-serif;
+    line-height: 1.5;
+    background-color: mistyrose;
+}
+.name{
+    font-weight:bolder;
+    font-style: normal;
+}
+.profile{
+font-style: italic;
+}
+summary{
+    font-size: 20px;
 }
