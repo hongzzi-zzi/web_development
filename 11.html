@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <title>홍찌의 bootstrapღ’ᴗ’ღ</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Do+Hyeon&display=swap');
+    </style>
+    <link rel="stylesheet" href="./11.style.css">
+</head>
+
+<body>
+    <h3>자주 이용하는 SNS 고르기</h3>
+    <div class="btn-group" role="group" aria-label="Basic radio toggle button group">
+        <form action="sns.php">
+            <input type="radio" class="btn-check" name="btnradio" id="btnradio1" autocomplete="off" checked>
+            <label class="btn btn-outline-primary" for="btnradio1">Instagram</label>
+
+            <input type="radio" class="btn-check" name="btnradio" id="btnradio2" autocomplete="off">
+            <label class="btn btn-outline-primary" for="btnradio2">Facebook</label>
+
+            <input type="radio" class="btn-check" name="btnradio" id="btnradio3" autocomplete="off">
+            <label class="btn btn-outline-primary" for="btnradio3">Naver Blog</label><br><br>
+            <input type="submit" value="선택">
+        </form>
+    </div>
+    <h3>ID 입력</h3>
+    <nav class="navbar navbar-light bg-light">
+        <div class="container-fluid">
+            <form class="d-flex">
+                <input class="form-control me-2" type="text" placeholder="ID" aria-label="Search">
+                <button class="btn btn-outline-success" type="submit">입력</button>
+            </form>
+        </div>
+    </nav>
+
+</body>
