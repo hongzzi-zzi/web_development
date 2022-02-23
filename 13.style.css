@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    font-family: 'Do Hyeon', sans-serif;
+    line-height: 1.5;
+    background-color: mistyrose;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.item{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    background-color:salmon;
+}
